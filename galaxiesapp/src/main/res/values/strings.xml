@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Galaxies App</string>
+    <string-array name="planetes">
+        <item>mercure</item>
+        <item>neptune</item>
+        <item>jupiter</item>
+        <item>neptune</item>
+        <item>Vénus</item>
+        <item>Terre</item>
+        <item>Mars</item>
+        <item>Saturne</item>
+        <item>Uranus</item>
+    </string-array>
+</resources>

@@ -1,0 +1,2 @@
+include ':mycalculator', ':galaxiesapp'
+rootProject.name='My apps'
