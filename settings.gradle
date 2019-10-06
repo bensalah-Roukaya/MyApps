@@ -1,2 +1,2 @@
-include ':mycalculator', ':galaxiesapp'
+include ':mycalculator', ':newsapp'
 rootProject.name='My apps'
